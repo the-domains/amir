@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[amir]]></title>
         <description><![CDATA[amir]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amir/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 04:02:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 17:40:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amir/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2679ed4b-65a2-462e-9347-4296f205e6bb.jpg">]]></description>
+            <link>https://thegrid.ai/amir/d278225c-4cbb-4471-b34c-441436429c4d/index.html</link>
+            <guid isPermaLink="false">d278225c-4cbb-4471-b34c-441436429c4d</guid>
+            <pubDate>Mon, 06 Jun 2016 17:38:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>First post. Test.</p>]]></description>
-            <link>undefinedfirst-post-test/index.html</link>
+            <link>https://thegrid.ai/amir/first-post-test/index.html</link>
             <guid isPermaLink="false">aef2c86b-5d1d-400d-90e3-ae94a617b40a</guid>
             <pubDate>Thu, 14 Apr 2016 04:02:03 GMT</pubDate>
         </item>
